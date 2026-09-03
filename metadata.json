@@ -1,0 +1,7 @@
+{
+  "name": "BizFlow",
+  "description": "WhatsApp-first CRM for micro-businesses — manage customers, orders, payments, and follow-ups in one simple place.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
